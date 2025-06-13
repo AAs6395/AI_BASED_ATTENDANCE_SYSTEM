@@ -1,1 +1,1 @@
-# AI_BASED_ATTENDANCE_SYSTEM
+# face_recognition_flask
