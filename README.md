@@ -104,19 +104,10 @@ Multi-camera support
 
 👨‍💻 Author
 
-Your Name
-📧 your.email@example.com
+Aashish joshi
+📧 jaashish109@gmail.com
 
-🌐 GitHub Profile
 
-📜 License
-
-This project is open-source and available under the MIT License
-.
----
-
-Would you like me to **personalize** this README (add your name, GitHub link, and local path instructions for Windows)?  
-I can also generate a version in **docx or PDF format** if you need it for a project submission.
 
 
 
