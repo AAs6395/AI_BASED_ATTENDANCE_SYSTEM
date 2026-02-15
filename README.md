@@ -36,7 +36,7 @@ AI_BASED_ATTENDANCE_SYSTEM-main/
 ## ⚙️ Installation
 
 ### 1️⃣ Clone or Download the Repository
-```bash
+
 git clone https://github.com/yourusername/AI_BASED_ATTENDANCE_SYSTEM.git
 cd AI_BASED_ATTENDANCE_SYSTEM-main
 
