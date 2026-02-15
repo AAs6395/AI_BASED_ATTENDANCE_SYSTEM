@@ -41,7 +41,7 @@ git clone https://github.com/yourusername/AI_BASED_ATTENDANCE_SYSTEM.git
 cd AI_BASED_ATTENDANCE_SYSTEM-main
 
 
-2.Install Python Dependencies
+### 2.Install Python Dependencies
 
 Make sure you have Python 3.8+ installed.
 
@@ -71,7 +71,7 @@ Open your browser and go to:
 👉 http://127.0.0.1:5000/
 
 
-🧩 How It Works
+## 🧩 How It Works
 
 Register Faces
 Capture images of users’ faces and store encodings.
@@ -87,7 +87,7 @@ Open the CSV file to view attendance records.
 
 
 
-Dependencies
+## Dependencies
 Package	Purpose
 Flask	Web Framework
 OpenCV	Image Capture & Face Detection
@@ -97,7 +97,7 @@ numpy	Array operations
 pandas	CSV handling
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 Cloud-based data storage (Firebase / AWS)
 
@@ -108,7 +108,7 @@ SMS/Email notifications
 Multi-camera support
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Aashish joshi
 📧 jaashish109@gmail.com
