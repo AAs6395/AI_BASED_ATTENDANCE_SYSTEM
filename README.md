@@ -70,6 +70,7 @@ You should see:
 Open your browser and go to:
 👉 http://127.0.0.1:5000/
 
+
 🧩 How It Works
 
 Register Faces
@@ -84,6 +85,8 @@ When a known face is detected, name, date, and time are recorded in:
 View Attendance
 Open the CSV file to view attendance records.
 
+
+
 Dependencies
 Package	Purpose
 Flask	Web Framework
@@ -92,6 +95,8 @@ dlib	Facial Landmark & Recognition
 face-recognition	Easy face encoding & comparison
 numpy	Array operations
 pandas	CSV handling
+
+
 🚀 Future Enhancements
 
 Cloud-based data storage (Firebase / AWS)
@@ -101,6 +106,7 @@ Admin dashboard for analytics
 SMS/Email notifications
 
 Multi-camera support
+
 
 👨‍💻 Author
 
